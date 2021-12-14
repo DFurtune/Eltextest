@@ -10,8 +10,8 @@
   header {
     width: 100%;
     padding-top: 20px;
-    background-image: url(../img/Rectangle.jpg), -webkit-gradient(linear, left top, right top, from(#5e239d), color-stop(56.77%, rgba(196, 196, 196, 0)));
-    background-image: url(../img/Rectangle.jpg), linear-gradient(90deg, #5e239d 0%, rgba(196, 196, 196, 0) 56.77%);
+    background-image: url(../../img/Rectangle.jpg), -webkit-gradient(linear, left top, right top, from(#5e239d), color-stop(56.77%, rgba(196, 196, 196, 0)));
+    background-image: url(../../img/Rectangle.jpg), linear-gradient(90deg, #5e239d 0%, rgba(196, 196, 196, 0) 56.77%);
     background-color: #5e239d;
     background-size: cover;
     background-repeat: no-repeat;
@@ -268,11 +268,10 @@
     position: absolute;
     right: 18%;
     top: 144px;
-    background-image: url(../img/intro-Photo.jpg);
+    background-image: url(../../img/intro-Photo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    z-index: 1;
   }
   .quote-block {
     position: absolute;
@@ -354,8 +353,8 @@
     margin-top: 50px;
     padding-top: 144px;
     padding-bottom: 150px;
-    background-image: url(../img/Bg.jpg), -webkit-gradient(linear, left top, left bottom, from(rgba(49, 18, 81, 0)), color-stop(80.07%, #30124e));
-    background-image: url(../img/Bg.jpg), linear-gradient(180deg, rgba(49, 18, 81, 0) 0%, #30124e 80.07%);
+    background-image: url(../../img/Bg.jpg), -webkit-gradient(linear, left top, left bottom, from(rgba(49, 18, 81, 0)), color-stop(80.07%, #30124e));
+    background-image: url(../../img/Bg.jpg), linear-gradient(180deg, rgba(49, 18, 81, 0) 0%, #30124e 80.07%);
     background-color: #5e239d;
     background-size: cover;
     background-repeat: no-repeat;
