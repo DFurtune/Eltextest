@@ -389,8 +389,9 @@
         -ms-writing-mode: tb-lr;
             writing-mode: vertical-lr;
     position: absolute;
-    top: 500px;
-    right: -370px;
+    top: 2100px;
+    right: 11%;
+    height: 200px;
   }
   .right-side-text p {
     font-weight: 800;
@@ -406,6 +407,7 @@
     letter-spacing: 6px;
     text-transform: uppercase;
     color: #5e239d;
+    margin: 0;
   }
   #slider .hcg-slide-container {
     width: auto;
