@@ -168,14 +168,13 @@
   }
   .head-container h1 {
     font-weight: 900;
-    font-size: 60px;
+    font-size: 99px;
     line-height: 118px;
     color: #fcfcfc;
     margin-top: 20px;
   }
   .head-container .purple {
     color: #f61067;
-    margin-top: -25px;
     margin-bottom: 100px;
   }
   .head-container .scroll {
@@ -226,6 +225,9 @@
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
   }
   .head-container .subheader p {
     margin: 0;
